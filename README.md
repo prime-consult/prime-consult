@@ -1,4 +1,4 @@
-[![Profile views](https://komarev.com/ghpvc/?username=will2022)](https://github.com/will2022)
+[![Profile views](https://komarev.com/ghpvc/?username=prime-consult)](https://github.com/prime-consult)
 
 <div align="center">
   <h1>Hi 👋, I'm <strong>William Hein</strong></h1>
