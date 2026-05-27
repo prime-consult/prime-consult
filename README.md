@@ -10,7 +10,7 @@
 
 ## Snapshot
 
-- ✅ Founder & Lead Developer at Heitech.dk
+- ✅ Founder & Lead Developer
 - ✅ Built B2B sales intelligence, real-time trading ingestion, and ticketing platforms
 - ✅ Experienced in AI-driven automation, containerized deployments, and secure backend design
 - ✅ Available for client work and new consulting projects
@@ -21,9 +21,6 @@
 - Architect multi-agent AI systems and trading workflows
 - Deliver end-to-end web and mobile solutions
 - Harden infrastructure with secure containerization and deployment
-
-## Contact
-- **LinkedIn:** https://linkedin.com/in/hein-william
 
 ---
 
