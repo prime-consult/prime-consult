@@ -1,7 +1,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=prime-consult)](https://github.com/prime-consult)
 
 <div align="center">
-  <h1>Hi 👋, I'm <strong>William Hein</strong></h1>
+  <h1>Hi 👋,</h1>
   <h3>Lead Software Developer building intelligent products, autonomous automation, and secure event platforms.</h3>
   <p>Strong engineering delivery across TypeScript, Python, PHP, Go, and distributed systems.</p>
 </div>
